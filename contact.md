@@ -1,5 +1,4 @@
 ---
-layout: section
 title: contact
 ---
 
@@ -22,7 +21,7 @@ title: contact
 	</ul>
 </form>
 <ul class="icons">
-	
+
 	{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
@@ -53,5 +52,5 @@ title: contact
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
-				
+
 </ul>
