@@ -1,9 +1,9 @@
 # Site settings
 title: Aidan Valente
 email: valente.aidan@gmail.com
-description: <b>Student at Washington and Lee University<br />Medieval & Renaissance Studies and Art History Major<br />Mellon Digital Humanities Undergraduate Fellow</b>
+description: <b>Student at Washington and Lee University. <br />Medieval & Renaissance Studies and Art History Major. <br />Mellon Digital Humanities Undergraduate Fellow.</b>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+url: "http://www.aidanvalente.com" # the base hostname & protocol for your site
 author: Aidan Valente
 street_address: 2305 Grandview Ave S
 city: Sanford
