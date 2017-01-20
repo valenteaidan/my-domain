@@ -5,12 +5,12 @@ description: <b>Student at Washington and Lee University. <br />Medieval & Renai
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.aidanvalente.com" # the base hostname & protocol for your site
 author: Aidan Valente
-street_address: 2305 Grandview Ave S
-city: Sanford
-state: FL
-zip_code: 32771
-country: United States of America
-phone: (321) 696-9730
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 
 icon: fa-adn # Font Awesome class for your site's icon
 
