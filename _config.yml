@@ -12,7 +12,7 @@ zip_code:
 country:
 phone:
 
-icon: fa-adn # Font Awesome class for your site's icon
+icon: fa-fire # Font Awesome class for your site's icon (adn = A in circle)
 
 # Social settings
 500px_url:
