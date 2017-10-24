@@ -37,9 +37,6 @@ title: contact
 				{% if site.pinterest_url %}
 				<li><a href="{{ site.pinterest_url }}" class="icon fa-pinterest" target="_blank_"><span class="label">Pinterest</span></a></li>
 				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon fa-500px" target="_blank_"><span class="label">500px</span></a></li>
-				{% endif %}
 				{% if site.gitlab_url %}
 				<li><a href="{{ site.gitlab_url }}" class="icon fa-gitlab" target="_blank_"><span class="label">GitLab</span></a></li>
 				{% endif %}
