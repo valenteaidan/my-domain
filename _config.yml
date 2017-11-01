@@ -1,7 +1,9 @@
 # Site settings
 title: Aidan Valente
 email: valente.aidan@gmail.com
-description: <b>Student at Washington and Lee University<br>Medieval & Renaissance Studies and Art History Major<br>Mellon Digital Humanities Undergraduate Fellow</b>
+description1: Student at Washington and Lee University
+description2: Medieval & Renaissance Studies and Art History Major
+description3: Mellon Digital Humanities Undergraduate Fellow
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Aidan Valente
