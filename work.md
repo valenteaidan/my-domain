@@ -8,7 +8,10 @@ This paper compares two image cycles in the Templar chapels of Cressac and Coulo
 *Presented at Longwood University's Meeting in the Middle Conference 2017*
 
 ***Acca Larenzia and Rea Silvia: the Fonte Gaia and Its Complex Iconographical Themes***—
-An analysis of the Fonte Gaia in Siena, a masterful example of the transition in sculpture between the Late Gothic and Early Renaissance periods. The imagery of Jacopo della Quercia's fountain connects themes of motherhood, civic and pious charity, and the appeal to Roman succession.
+An analysis of the Fonte Gaia in Siena, a masterful example of the transition in sculpture between the Late Gothic and Early Renaissance periods. The imagery of Jacopo della Quercia's fountain connects themes of motherhood, civic and pious charity, and the appeal to Roman succession. I re-contextualize the now-removed statues of Acca Larenzia and Rea Silvia and explain their connection to the rest of the fountain's iconography. 
+
+<!-- ***A Balancing Act of Faith: an Anagogical Reading of Vermeer's Woman Holding a Balance***—
+In this painting I examine the historical and socio-religious context surrounding Johannes Vermeer's life in Delft and how it influenced one of his masterpieces, the *Woman Holding a Balance*. To me, the image communicates a theological tensions between Reformed and Catholic beliefs regarding the ultimate fate of unbaptized souls. -->
 
 ***All You Need Is An Onion***—
 A short paper examining the Induction of *The Taming of the Shrew* and its importance in setting up the remainder of the play. Because it opens the play so uniquely but never resolves, the Induction introduces themes that affect the viewer's perception of the play. The play-within-a-play framing device and contemporary views on women and acting imply that the typically misogynist messages of *The Taming of the Shrew*, when viewed in light of the Induction, may not apply so well to the play after all.
