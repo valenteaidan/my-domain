@@ -8,13 +8,19 @@ The following are short abstracts of some of my college papers and essays so far
 This paper compares two image cycles in the Templar chapels of Cressac and Coulommiers, France. The former contains imagery related to the order's militaristic mission in the Holy Land, while the latter, produced several decades later, emphasizes the Virgin Mary and scenes from her life. The difference in narratives parallels the evolution of the nature of the Templars over the course of their short but storied existence.
 *Presented at Longwood University's Meeting in the Middle Conference 2017*
 
-***Acca Larenzia and Rea Silvia: the Fonte Gaia and Its Complex Iconographical Themes***—
+***Siena's Water and Romana Mater: Sienese Civic Identity and the Fonte Gaia***—
 An analysis of the Fonte Gaia in Siena, a masterful example of the transition in sculpture between the Late Gothic and Early Renaissance periods. The imagery of Jacopo della Quercia's fountain connects themes of motherhood, civic and pious charity, and Siena's claim to Roman succession. I re-contextualize the now-removed statues of Acca Larenzia and Rea Silvia and explain their connection to the rest of the fountain's iconography.
 
-<!-- ***A Balancing Act of Faith: an Anagogical Reading of Vermeer's Woman Holding a Balance***—
-In this painting I examine the historical and socio-religious context surrounding Johannes Vermeer's life in Delft and how it influenced one of his masterpieces, the *Woman Holding a Balance*. To me, the image communicates a theological tensions between Reformed and Catholic beliefs regarding the ultimate fate of unbaptized souls. -->
+***The Loggia delle Benedizioni at Viterbo and the Use of French Gothic as an Architectural Language of Papal Power***—
+Although the *Palais des Papes* in Avignon is the largest and best-preserved papal palace from the Middle Ages, the surviving palace in Viterbo rivals it in both regards. In this paper I analyze the *Loggia delle Benedizioni* in both its role as an aggrandizer for the papacy and as a communicant of Guelphic alliance with Charles of Anjou during and shortly after its construction.
 
-***The Musical Mysticism of Love in Caravaggio’s Rest on the Flight into Egypt***
+<!-- ***A Balancing Act of Faith: an Anagogical Reading of Vermeer's Woman Holding a Balance***—
+In this painting I examine the historical and socio-religious context surrounding Johannes Vermeer's life in Delft and how it influenced one of his masterpieces, the *Woman Holding a Balance*. To me, the image references the theological tensions between Reformed and Catholic beliefs regarding the ultimate fate of unbaptized souls. -->
+
+***Eucharistic Mystic: Juliana of Liege and the Sensory Experience of Corpus Christi***—
+Although more strongly associated now with St. Thomas Aquinas thanks to his popular hymns, the origins of this characteristically Catholic feast ultimately derive from the mystical and visionary experiences of the 13th century. I examine the larger socio-religious context surrounding Juliana in the Bishopric of Liege and the Medieval understanding of the senses in relation to the mystical experience.
+
+***The Musical Mysticism of Love in Caravaggio’s Rest on the Flight into Egypt***—
 Here I examine the complex intersection of several distinct themes in one of Caravaggio's most beautiful and unique paintings. I argue that the artist, under the patronage of the well-educated Cardinal del Monte, painted an emotionally charged scene that references the Song of Songs and the interplay between love and music in the mysticism that normally accompanies the Song.
 
 ***All You Need Is An Onion***—
